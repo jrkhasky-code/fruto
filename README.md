@@ -1,5 +1,5 @@
 # fruto
- !IMPORTANT! This was not made by me! all credits go to my friend *REDACTED FOR PRIVACY* wrote all of this. i just posted it!
+ !IMPORTANT! This was not made by me! all credits go to my friend *REDACTED FOR PRIVACY* who wrote all of this. i just posted it!
  Controls
  Type feed, to feed your Fruto
  Type sleep, to put him to sleep
