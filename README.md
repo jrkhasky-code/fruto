@@ -1,5 +1,5 @@
 # fruto
- !IMPORTANT! This was not made by me! all credits go to my friend *REDACTED FOR PRIVACY* who wrote all of this. i just posted it!
+ !IMPORTANT! This was not made by me! all credits go to my friend *REDACTED FOR PRIVACY* who wrote all of this. i just posted it! Also you need python 3.14.2 to run this.
  password to play game is 1234
  *Controls:*
  Type feed, to feed your Fruto.
