@@ -41,8 +41,8 @@ play = '''
     ^  
     |  
  (__|_O)'''
-print('this is the Fruto OS By: Aidan')
-print(" Credits to Ashton :)")
+print('this is the Fruto OS By: /////')
+print(" Credits to //////")
 E = int(input('plz enter password:   '))
 if E == 1234:
     hunger = 40
@@ -257,3 +257,4 @@ x    x
                 print(wakestate, '''
 *yawn* good morning''')
                 chat = wake
+            
