@@ -14,7 +14,7 @@
 # GAME INSTALL:
 
 (macOS & Linux)
- git clone https://github.com/jrkhasky-code/fruto.git
+ git clone https://github.com/jrkhasky-code/fruto.git 
  
  (Windows)
   go to https://github.com/jrkhasky-code/fruto and go to the newest release and download the .py file
