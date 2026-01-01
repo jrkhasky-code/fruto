@@ -11,7 +11,7 @@
  Type play, to increase love.
  Type water, to give him water.
 
-*GAME INSTALL:*
+# GAME INSTALL:
 
 (macOS & Linux)
  git clone https://github.com/jrkhasky-code/fruto.git
