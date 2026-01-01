@@ -11,3 +11,5 @@ Exaple gameplay in terminal:
  Type fish, to go fishing.
  Type play, to increase love.
  Type water, to give him water.
+
+^*GAME INSTALL:*^
