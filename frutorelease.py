@@ -43,8 +43,8 @@ play = '''
  (__|_O)'''
 print('this is the Fruto OS By: /////')
 print(" Credits to //////")
-E = int(input('plz enter password:   '))
-if E == 1234:
+E = int(input('plz enter "play" to play'))
+if E == play:
     hunger = 40
     thirst = 40
     fishcapacity = 0
